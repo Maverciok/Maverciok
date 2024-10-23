@@ -2,7 +2,6 @@
 - 👀 I’m interested in developer lua,css,html,js,java
 - 🌱 I’m currently learning eup fivem
 - 📫 How to reach me Discord: https://discord.gg/xwCSV6XJqG
-- ⚡ In love with D <3
 
 <!---
 Maverciok/Maverciok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
